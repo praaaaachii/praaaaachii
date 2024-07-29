@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/praaaaachii](https://github.com/praaaaachii)
 
-- 💬 Ask me about **Java , JavaScript , React Js**
+- 💬 Ask me about ** C++ ,Java , JavaScript , React Js ,Node Js , Express , Mongo DB, Next Js**
 
 - 📫 How to reach me **prachiohdar@gmail.com**
 
