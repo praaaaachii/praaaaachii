@@ -63,7 +63,7 @@
 
 ## Let's connect <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-<a href="https://www.linkedin.com/in/praaaaachii/">
+<a href="https://www.linkedin.com/in/prachi-kumari-815137207/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
 <a href="mailto:prachiohdar@gmail.com">
@@ -71,9 +71,6 @@
 </a>
 <a href="https://www.naukri.com/code360/profile/praaaaachii">
   <img align="left" width="20px" height="20px" src="https://github.com/user-attachments/assets/53300028-aade-403a-910a-af4a41bc5a2c" />
-</a>
-<a href="https://discord.gg/bNZGeFUZ">
-  <img align="left" width="40px" height="23px" src="https://user-images.githubusercontent.com/79656610/153700508-562f6bad-816b-41d8-9560-00dab6de333e.png" />
 </a>
 
 <br />
