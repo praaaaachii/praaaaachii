@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prachi Kumari</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">Specialist Programmer @INFOSYS</h3>
 
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=praaaaachii&label=Profile%20views&color=0e75b6&style=flat" alt="praaaaachii" /> </p> -->
 
 <br>
 
-- 👨‍💻 I’m currently working on website/webapp development using **MERN Stack** and solving **DSA** problems in **C++**
+- 👨‍💻 I’m currently working on website/webapp development using **.NET & GEN AI** and solving **DSA** problems in **C++**
 
 - 🌱 I've been recently exploring **ReactJs** and **NextJs** along with backend technologies like **FireBase**
 
@@ -13,7 +13,7 @@
   
 - 🎯 `Secured a rank of 1012 in IIT JAM 2023`
 
-- 💬 Let's discuss about **C++, Java , JavaScript , React Js ,Node Js , Express , Mongo DB, Next Js**
+- 💬 Let's discuss about **C++,C Sharp , Java , JavaScript ,Typescript, Angular , React Js ,Node Js , Express , Mongo DB, Next Js**
 
 <br>
 
